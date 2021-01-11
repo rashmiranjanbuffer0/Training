@@ -1,3 +1,5 @@
 # Asset Configuration Templete
 ![screenshot](Screenshot.png)
-![screen-record](Screen-record.mp4)
+<video controls="controls">
+  <source type="video/mp4" src="Screen-record.mp4"></source>
+</video>
