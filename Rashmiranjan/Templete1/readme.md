@@ -1,4 +1,4 @@
 # Asset Configuration Templete
-![screenshot](Screenshot.png)
-![video](Screen-record.gif)
 
+![video](Screen-record.gif)
+![screenshot](Screenshot.png)
