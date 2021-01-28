@@ -2,4 +2,4 @@
   
   #### Screenshot of sass installation
   
-  ![Reload !](sass install.jpg)
+  ![Reload !](sass install.JPG)
