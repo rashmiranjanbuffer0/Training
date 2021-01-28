@@ -1,0 +1,32 @@
+$utilities: map-merge(("top": (property: top,
+                        values: $position-values),
+
+                "bottom":(property: bottom,
+                        values: $position-values),
+
+                "left": (property: left, class: left,
+                        values: $position-values),
+
+                "right": (property: right, class: right,
+                        values: $position-values),
+
+                "height": (property: height, class: h,
+                        values: (25: 25%,
+                                50: 50%,
+                                75: 75%,
+                                100: 100%,
+                                auto: auto)),
+
+                "width": (property: width, class: w,
+                        values: (25: 25%,
+                                50: 50%,
+                                75: 75%,
+                                100: 100%,
+                                auto: auto))));
+
+
+/* $units: ("units":(property: unit($pixel: 10px),
+                values:(
+
+));
+*/
