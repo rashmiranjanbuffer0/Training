@@ -10,4 +10,4 @@
 
 
   # Rx-Bootstrap Sample Video
-  ![Video](Rx-Bootstrap_(Custom Bootstrap).mp4)
+  ![Video](Rx-Bootstrap_(Custom%20Bootstrap).gif)
