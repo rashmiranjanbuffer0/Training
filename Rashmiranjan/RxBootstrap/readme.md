@@ -2,8 +2,12 @@
   
   #### Screenshot of sass installation
   
-  ![Reload](sass%20install.JPG)
+  ![Install](sass%20install.JPG)
 
   #### Screenshot of sass version
   
-  ![Reload](verson%20check.JPG)
+  ![Version](verson%20check.JPG)
+
+
+  # Rx-Bootstrap Sample Video
+  ![Video](Rx-Bootstrap_(Custom Bootstrap).mp4)
